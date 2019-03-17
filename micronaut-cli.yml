@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: kafka.cluster
+---
+testFramework: junit
+sourceLanguage: java
